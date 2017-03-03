@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Code Example
 description: This page contains examples for writing code in markdown.
 header: Code Syntax Example
