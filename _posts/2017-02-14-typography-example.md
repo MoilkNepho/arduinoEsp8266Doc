@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Typography Example | Monochrome
 description: This page demonstrates typography in markdown.
 header: Typography Example

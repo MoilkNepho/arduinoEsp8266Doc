@@ -1,5 +1,4 @@
 ---
-layout: post
 title: TheReviewIndex | Unbiased User Review Summaries | Monochrome
 description: This is an introduction to thereviewindex.com.
 header: TheReviewIndex | Unbiased User Review Summaries
